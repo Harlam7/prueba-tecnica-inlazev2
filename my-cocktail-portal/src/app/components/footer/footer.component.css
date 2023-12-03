@@ -1,0 +1,16 @@
+/* footer.component.css */
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+div {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+div:hover {
+  text-decoration: underline;
+}

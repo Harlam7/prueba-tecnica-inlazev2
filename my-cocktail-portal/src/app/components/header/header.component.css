@@ -1,0 +1,25 @@
+body {
+  padding-top: 56px;
+}
+
+header {
+  padding: 10px 0;
+}
+
+header .navbar-brand img {
+  margin-right: 20px;
+}
+
+header .navbar-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .navbar-nav .nav-link {
+  margin-right: 15px;
+}
+
+header .input-group {
+  margin-left: auto;
+}
